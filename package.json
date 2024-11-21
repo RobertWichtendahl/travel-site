@@ -1,8 +1,4 @@
 {
-  "dependencies": {
-    "lodash": "^4.17.21",
-    "normalize.css": "^8.0.1"
-  },
   "name": "travel-site",
   "version": "1.0.0",
   "main": "index.js",
@@ -12,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1"
+  }
 }
